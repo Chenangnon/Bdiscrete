@@ -1,5 +1,5 @@
 # bdglm
-An R package on Generalized Linear Models for Counts Data under Balanced Discrete Distribution Families
+An R package on Balanced Discrete Distribution Families
 
 # Description
 Fitting and assessing generalized linear models for count data using balanced discrete distributions.
